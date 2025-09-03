@@ -21,3 +21,6 @@ answering, and timeline summarisation.
 
 
 Paper link: http://arxiv.org/abs/2509.02363
+
+## Acknowledgement 
+This work was conducted with the financial support of Research Ireland under Grant Number SFI/12/RC/2289\_P2 (Insight\_2). . At the time of this publication, Omnia Zayed has been supported by Taighde Éireann – Research Ireland for the Postdoctoral Fellowship award GOIPD/2023/1556 (Glór)
